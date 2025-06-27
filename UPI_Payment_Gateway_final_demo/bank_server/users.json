@@ -1,0 +1,22 @@
+{
+  "b2e08dc8c61283d4": {
+    "name": "garima",
+    "mmid": "816060ecc2246af1",
+    "pin": "3bad45f2cc9f047e",
+    "account_number": "b2e08dc8c61283d4",
+    "bank_code": "SBIN0000003",
+    "mobile_number": "9916332003",
+    "password": "b974ebb9a9790133",
+    "balance": 4006.0
+  },
+  "b293fb4939a7464a": {
+    "name": "vibhanshu",
+    "mmid": "a56a28ff1a87e73d",
+    "pin": "886b73d4b098e551",
+    "account_number": "b293fb4939a7464a",
+    "bank_code": "SBIN0000002",
+    "mobile_number": "991632003",
+    "password": "312d86c1f0032233",
+    "balance": 9700.0
+  }
+}

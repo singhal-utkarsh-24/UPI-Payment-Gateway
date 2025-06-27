@@ -1,0 +1,10 @@
+[
+    {
+        "transaction_id": "0",
+        "transaction_data": {
+            "message": "Genesis Block"
+        },
+        "previous_hash": "0",
+        "timestamp": 1744387797.793629
+    }
+]
